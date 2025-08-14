@@ -5,6 +5,7 @@ A studio where we mainly create rhythm games for free! We still rely on donation
 
 ## Members :
 - @rhitomaic
+- @kidjanate
 
 ## Projects :
 - None
